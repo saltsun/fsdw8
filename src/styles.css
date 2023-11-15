@@ -1,0 +1,47 @@
+form {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    color: #333;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 16px;
+  }
+  
+  button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+  }
+  
+  li {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  img {
+    max-width: 25rem;
+    height: auto;
+    border-radius: 4px;
+  }
+  
+  li div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
